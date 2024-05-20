@@ -1,16 +1,16 @@
-### Hi there 👋
+### Bem vindo(a) ao meu perfil ❤️
 
-<!--
-**maryferreir/Maryferreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduarda
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](http://www.alura.com.br)
+- Estou estudando a linguagem JavaScript
+- Utilizo esse espaço para me organizar e compartilhar meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📧
+
+ 0000110801396xsp@al.educacao.sp.gov.br
+
+ @mariaeduarda29415
+
+ ![image](https://github.com/maryferreir/Maryferreir/assets/170360096/4d9c9519-e34b-4437-8835-5b13cb66a908)
+ 
